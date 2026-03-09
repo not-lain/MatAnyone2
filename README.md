@@ -49,13 +49,13 @@
 
 
 ## 📮 Update
-- [2026.03] Release inference codes and gradio demo.
+- [2026.03] Release inference codes, evaluation codes, and gradio demo.
 - [2025.12] This repo is created.
 
 
 ## 🏄🏻‍♀️ TODO
 - [x] Release inference codes and gradio demo. 
-- [ ] Release evaluation codes.
+- [x] Release evaluation codes.
 - [ ] Release training codes for video matting model.
 - [ ] Release checkpoint and training codes for quality evaluator model.
 - [ ] Release real-world video matting dataset **VMReal**.
@@ -138,6 +138,8 @@ By launching, an interactive interface will appear as follow.
 
 ![overall_teaser](assets/teaser_demo.gif)
 
+## 📊 Evaluation
+Please refer to the [evaluation documentation](docs/EVAL.md) for details.
 
 ## 🛠️ Data Pipeline
 ![data_pipeline](assets/data_pipeline.jpg)
