@@ -8,7 +8,7 @@ from PIL import Image
 import torch
 import torch.nn.functional as F
 
-from hugging_face.tools.download_util import load_file_from_url
+from matanyone2.utils.download_util import load_file_from_url
 from matanyone2.utils.inference_utils import gen_dilate, gen_erosion, read_frame_from_videos
 
 from matanyone2.inference.inference_core import InferenceCore
