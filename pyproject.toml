@@ -14,7 +14,7 @@ column_limit = 100
 name = "matanyone2"
 version = "1.0.0"
 authors = [{ name = "Peiqing Yang", email = "peiqingyang99@outlook.com" }]
-description = "Robust and Real-Time Video Matting with Temporal Guidance"
+description = "Scaling Video Matting via a Learned Quality Evaluator"
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
